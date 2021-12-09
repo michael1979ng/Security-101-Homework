@@ -1,0 +1,67 @@
+Cybersecurity Threat Landscape (Part 2 - Akamai)
+In this part, you should primarily use the Akamai_Security_Year_in_Review_2019 and Akamai State of the Internet/ Security plus independent research to answer the below questions.
+______________________________________________________________________
+DDOS attack events from January 2019 to September 2019 largely targeted which industry? 
+  Answer: The Gaming Industry
+
+
+
+Almost 50% of unique targets for DDoS attacks from January 2019- September 2019 largely targeted which industry? 
+ Answer: Financial Industry
+
+
+
+Which companies are the top phishing targets, according to Akamai? 
+ Answer: Microsoft, PayPal, DHL, Dropbox, DocuSign, and LinkedIn are all top phishing          
+               targets, according to Akamai’s monitoring.
+
+
+
+What is credential stuffing? 
+ Answer: Credential stuffing is a type of cyberattack in which a cybercriminal uses  stolen usernames and passwords from one organization (obtained in a breach or purchased off of the dark web) to access user accounts at another organization. 
+(Source: https://auth0.com ›)
+
+
+
+
+Which country is the number one source of credential abuse attacks? Which country is number 2?
+Answer: Number one is United states of America
+              Number two is Russia
+
+
+
+Which country is the number one source of web application attacks? Which country is number 2?
+Answer: Number one is United states of America
+              Number two is Russia
+
+
+
+In Akamai’s State of the Internet report, it refers to a possible DDoS team that the company thought was affecting a customer in Asia (starts on page 11). 
+Describe what was happening.
+Early in 2018, Akamai noticed a customer in Asia was receiving an abnormal amount of traffic to one of its URLs. The customer was seeing so much traffic that, at its peak, it almost overflowed the database Akamai uses to log such activity.
+What did the team believe the source of the attack was? 
+Once the SOCC started digging into the report, they observed a large amount of HTTP requests going to a customer’s URL — leading to an immediate presumption of Ddos attack,  
+What did the team actually discover? 
+By the time SIRT had finished their work, and the SOCC had things under control, everyone involved realized the incident wasn’t an attack at all.		Earlier analysis, backed by additional SIRT research, concluded the high volume of traffic hammering this customer’s URL was the result of a warranty tool gone haywire.
+
+
+What is an example of a performance issue with bot traffic? 				
+Answer:
+The performance issue with bot traffic effect spreads across multiple risks associated with bot traffic, including performance issues (e.g., slow websites and frustrated customers) and increases in IT expenses. Additionally, there are brand-related risks such as bots that scrape your website for inventory assets, pricing data, or content. If that’s not enough, you’ve also got to deal with the bots responsible for DDoS attacks, ad fraud, SEO spam, and credential stuffing, to name a few. 
+
+
+
+Known-good bots are bots that perform useful or helpful tasks, and not do anything malicious to sites or servers. What are the main categories of known-good bots. 
+      SEARCH ENGINE CRAWLERS 
+      WEB ARCHIVES 
+     SEARCH ENGINE OPTIMIZATION, AUDIENCE ANALYTICS, AND MARKETING        
+     SERVICE 
+     SITE MONITORING SERVICES 
+     CONTENT AGGREGATORS 
+ 						
+
+
+What are two evasion techniques that malicious bots use? 
+Answer: 		 	 	 		
+The most basic evasion technique is altering the User Agent, or other HTTP header values, allowing the bot to impersonate widely used browsers, mobile applications, or even known-good bots. 				
+Bots will also change the IP addresses used in order to mask their origin, or use multiple IP addresses. The IP address change-out is also used to bypass rate limitations, as the bot will use a “low and slow” method where multiple IP addresses send a low number of requests each hour. 
