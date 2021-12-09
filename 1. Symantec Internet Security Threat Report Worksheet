@@ -1,0 +1,221 @@
+Security 101 Homework: Security Reporting
+Part I: Symantec
+For Part 1 of your homework assignment, you should primarily use the Symantec Internet Security Threat Report along with independent research to answer the following questions.
+
+What is formjacking?
+Answer: —FormJacking is the use of malicious JavaScript code to steal credit card details and other information from payment forms on the checkout web pages of eCommerce sites.
+
+
+How many websites are compromised each month with formjacking code? 
+Answer: Symantec data shows that 4,818 unique websites were compromised with formjacking code every month in 2018.
+
+
+What is Powershell?
+Answer: PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS. ( Source Google)
+
+
+What was the annual percentage increase in malicious Powershell scripts?
+Answer: There was a 1,000 percent increase in malicious PowerShell scripts blocked in 2018 on the endpoint.
+
+
+
+What is a coinminer?
+Answer: Coinminers are also called as cryptocurrency miners. These are the programs that generate cryptocurrencies like Bitcoin, Monero, Ethereum. It can be a valuable source of income when run intentionally for one’s benefit. But some people created threats and viruses which uses mining software to perform crypto jacking. During this activity, it consumes a lot of processing power and makes the computer slower than usual. (Source: quora.com)
+
+
+
+How much can data from a single credit card can be sold for? 
+Answer: Data from a single credit card can be sold for up to $45 on underground markets,
+
+
+
+How did Magecart successfully attack Ticketmaster? 
+Answer: Magecart compromised a third-party chatbot, which loaded malicious code into the web browsers of visitors to Ticketmaster’s website, with the aim of harvesting customers’ payment data.
+
+What is one reason why there has been a growth of formjacking? 
+Answer: The growth in formjacking in 2018 may be partially explained by the drop in the value of cryptocurrencies during the year: cyber criminals who may have used websites for cryptojacking may now be opting for formjacking. 
+
+
+
+Cryptojacking dropped by what percentage between January and December 
+2018?
+Answer: cryptojacking activity did fall during the year, dropping by 52 percent between January and December
+
+
+
+If a web page contains a coinmining script, what happens? 
+Answer: If a web page contains a coinmining script, the web page visitors’ computing power will be used to mine for cryptocurrency for as long as the web page is open.
+
+
+
+How does an exploit kit work? 
+
+
+Answer: Exploit kits are automated threats that use compromised sites to divert web traffic, scan for vulnerable browser-based applications, and run malware. (Source www.paloaltonetworks.com/)
+
+
+What does the criminal group SamSam specialize in? 
+
+Answer: Ransomware attack
+
+
+
+How many SamSam attacks did Symantec find evidence of in 2018? 
+Answer: Symantec found evidence of 67 SamSam attacks
+
+
+
+Even though ransomware attacks declined in 2017-2018, what was one dramatic change that occurred? 
+
+Answer: Up until 2017, consumers were the hardest hit by ransomware, accounting for the majority of infections. In 2017, the balance tipped towards enterprises, with the majority of infections occurring in businesses. In 2018, that shift accelerated and enterprises accounted for 81 percent of all ransomware infections. While overall ransomware infections were down, enterprise infections were up by 12 percent in 2018.
+
+
+
+In 2018, what was the primary ransomware distribution method? 
+
+Answer: During 2018, the chief ransomware distribution method was email campaigns.
+
+
+
+What operating systems do most types of ransomware attacks still target?
+
+Answer: Windows
+What are “living off the land” attacks? What is the advantage to hackers? 
+
+Answer: A Living off the Land (LotL) attack describes a cyberattack in which intruders use legitimate software and functions available in the system to perform malicious actions on it. (Source: https://encyclopedia.kaspersky.com/)
+It is advantageous to the hackers because it uses generally available tools on the system to carry out its malicious activities.
+
+
+
+What is an example of a tool that’s used in “living off the land” attacks?
+
+Answer: Powershell
+
+
+
+What are zero-day exploits?
+
+
+Answer: It is an unknown exploit in the wild that exposes a vulnerability in software or hardware and can create complicated problems well before anyone realizes something is wrong. In fact, a zero-day exploit leaves NO opportunity for detection ... at first. (Source: https://www.fireeye.com/)
+
+
+By what percentage did zero-day exploits decline in 2018? 
+
+Answer: Only 23 percent of attack groups were known to use zero days,
+
+
+
+What are two techniques that worms such as Emotet and Qakbot use?
+
+Answer:They  use simple techniques including dumping passwords from memory or brute-forcing access to network shares to laterally move across a 
+network.
+
+
+
+What are supply chain attacks? By how much did they increase in 2018?
+
+Answer: Supply chain attacks—sometimes called value chain or third-party attacks—are attacks against the suppliers of an organization as a means for gaining access to that organization, which is typically a high-value target. (Source:https://www.zscaler.com/)
+They increased by 78 percent in 2018.
+
+
+
+What challenge do supply chain attacks and living off the land attacks highlight for organizations? 
+
+Answer: That  attacks are increasingly arriving through trusted channels,
+
+
+
+The 20 most active groups tracked by Symantec targeted an average of how many organizations between 2016 and 2018? 
+
+
+Answer: 55 Organizations
+
+How many individuals or organizations were indicted for cyber criminal activities in 2018? What are some of the countries that these entities were from? 
+
+Answer: Forty-nine individuals or organizations were indicted during 2018, 
+
+
+
+
+When it comes to the increased number of cloud cybersecurity attacks, what is the common theme? 
+
+Answer: poor configuration
+What is the implication for successful cloud exploitation that provides access to memory locations that are normally forbidden? 
+Answer: A successful attack on a single physical system could result in data being leaked from several cloud instances
+
+
+
+What are two examples of the above cloud attack? 
+
+Answer: Meltdown and Spectre Attack
+
+
+
+Regarding Internet of Things (IoT) attacks, what were the two most common infected devices and what percentage of IoT attacks were attributed to them? 
+
+Answer: Routers and connected cameras were the most infected devices and accounted for 75 and 15 percent of the attacks respectively. 
+
+
+
+What is the Mirai worm and what does it do? 
+
+Answer: Mirai is malware that infects smart devices that run on ARC processors, turning them into a network of remotely controlled bots or "zombies". This network of bots, called a botnet, is often used to launch DDoS attacks. (Source https://www.cloudflare.com/)
+hy was Mirai the third most common IoT threat in 2018? 
+
+Answer: Because it accounted for16 percent of the attacks in 2018
+
+
+
+What was unique about VPNFilter with regards to IoT threats?
+
+Answer: Its ability to survive a reboot making it very difficult to remove
+
+
+
+What type of attack targeted the Democratic National Committee in 2019? 
+
+Answer: spear-phishing attack
+
+
+
+What were 48% of  malicious email attachments in 2018? 
+
+Answer: Office Files
+
+
+
+What were the top two malicious email themes in 2018? 
+
+Answer: Bills and Email delivery failure.
+
+
+
+What was the top malicious email attachment type in 2018? 
+
+Answer: .doc, .dot .exe  .rtf  .xls, .xlt, .xla  .jar  .html, htm  .docx  .vbs  .xlsx  .pdf
+
+
+
+Which country had the highest email phishing rate? Which country had the lowest email phishing rate?
+
+
+Answer: Highest Email phishing rate: Canada
+                Lowest Email phishing rate: Saudi Arabia
+
+
+
+What is Emotet and how much did it jump in 2018?
+
+Answer: Emotet is a Trojan that is primarily spread through spam emails (malspam). (Source: https://www.malwarebytes.com/)
+It accounted for 16 percent of financial Trojans, in 2018
+
+
+
+What was the top malware threat of the year? How many of those attacks were blocked?
+Answer: Top Malware: Heur.AdvML.C
+                Attack Blocked: 43,999,373
+
+
+
+Malware primarily attacks which type of operating system? 
+
